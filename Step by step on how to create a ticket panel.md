@@ -15,3 +15,5 @@ The basic panel will be sent by the bot. If it shows **thinking...** or **Needs 
 If it makes the panel correctly, go to the [dashboard](https://ticketking.xyz/dashboard).
 
 Click on **Manage Server** for the server you added the panel to.
+
+You are done!
