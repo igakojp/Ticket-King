@@ -20,5 +20,3 @@ Now, here is the list of things you can do.
 [](#
 
 ---
-
-# Add Embed
