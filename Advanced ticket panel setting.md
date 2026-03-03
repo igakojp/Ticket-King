@@ -17,8 +17,10 @@ This is the main place to edit the panel.
 ---
 
 Now, here is the list of things you can do.
-[](#
+[Add Embed](https://github.com/igakojp/Ticket-King/new/main#add-embed)
 
 ---
 
 # Add Embed
+
+# Buttons & Select Menu
