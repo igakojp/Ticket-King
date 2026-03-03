@@ -17,7 +17,8 @@ This is the main place to edit the panel.
 ---
 
 Now, here is the list of things you can do.
-[Add Embed](https://github.com/igakojp/Ticket-King/new/main#add-embed)
+[Add Embed](https://github.com/igakojp/Ticket-King/blob/main/Advanced%20ticket%20panel%20setting.md#add-embed)
+[Buttons & Select Menu](https://github.com/igakojp/Ticket-King/blob/main/Advanced%20ticket%20panel%20setting.md#button---select-menu)
 
 ---
 
