@@ -13,6 +13,8 @@ You should find it in the sidebar.
 It should show your panel, so click on `Edit` to show everything you can do with the panel setting.
 
 This is the main place to edit the panel.
+The link should look like this:
+`https://ticketking.xyz/dashboard/[YOUR_SERVER_ID]/panels/[PANEL_ID]`
 
 ---
 
